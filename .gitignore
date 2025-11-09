@@ -1,0 +1,12 @@
+# archivos compilados de python
+.pyc
+
+# configuración de vscode
+.vscode/
+
+# carpeta de cache de python
+__pycache__/
+
+# archivos de configuracion local
+.env
+#configuracion para evitar subir archivos innecesarios
