@@ -1,6 +1,6 @@
 # preprocesamiento_cienciadatos
 
-
+OBJETIVO:IMPLEMENTAR UN CONJUNTO DE FUNCIONES EN PYTHON
 
 preprocesamiento_cienciadatos/
 │
