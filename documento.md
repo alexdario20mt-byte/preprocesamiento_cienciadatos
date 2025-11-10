@@ -31,7 +31,7 @@ Capturas de pantalla
 
 
 6. Enlaces finales
-Enlace al archivo DOCUMENTACION.md en GitHub: [Agrega aquí el enlace al archivo subido en tu repositorio]
+Enlace al archivo DOCUMENTACION.md en GitHub: 
 Enlace al repositorio GitHub: [https://github.com/alexdario20mt-byte/preprocesamiento_cienciadatos]
 7. Bibliografía
 • Chacon, S., & Straub, B. (2014). Pro Git. Apress.
